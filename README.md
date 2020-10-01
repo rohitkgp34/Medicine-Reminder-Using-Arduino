@@ -1,6 +1,6 @@
 # Medicine-Reminder-Using-Arduino
 To get maximum benefit from your medications, it is important to take them exactly as prescribed by your doctor. In fact, your chance of a better health outcome improves when you take your medications as directed.
-In this project we have proposed a medicine reminder using Arduino which will help you to remind times when you are restricted to take medicine. We have used real time module to check time corresponding to alarm set in our Arduino based device. Also we have implemented a cardboard box using servo motor which will give you which particular medicine you need to take. Medicine Reminder Using Arduino which reminds to take medicines 1 or 2 or 3 times a day. The time slot can be selected using push buttons. Also, it shows current Date and Time using LCD.
+In this project we have proposed a medicine reminder using Arduino which will help you to remind times when you are restricted to take medicine. We have used real time module to check time corresponding to alarm set in our Arduino based device. Also we have implemented a cardboard box using servo motor which will give you which particular medicine you need to take. Medicine Reminder Using Arduino which reminds to take medicines 1 or 2 or 3 times a day. The time slot can be selected using push buttons. Also, it shows current Date and Time using Liquid Crystal Display (LCD).
  
 ## Steps to run the project 
 1. Download the arduino IDE by visiting the link https://www.arduino.cc/en/main/software
